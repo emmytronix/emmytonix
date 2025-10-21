@@ -3,7 +3,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-I am a passionate Full Stack Web Developer dedicated to creating elegant, responsive, and user-centric web applications. My approach combines creative design thinking with technical expertise to build solutions that not only look good but perform exceptionally well. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
+I am an innovative Full Stack Web Developer dedicated to creating elegant, responsive, and user-centric web applications. My approach combines creative design thinking with technical expertise to build solutions that not only look good but perform exceptionally well. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
 With a strong foundation in both frontend and backend technologies, I bridge the gap between visual aesthetics and powerful functionality. I am constantly exploring new technologies and methodologies to enhance my development toolkit and deliver cutting-edge solutions.
 
