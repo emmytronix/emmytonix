@@ -42,28 +42,12 @@ With a strong foundation in both frontend and backend technologies, I bridge the
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="30px" width="30px"> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmy-way&show_icons=true&theme=radical" alt="Emmyronix GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmy-way&layout=compact&theme=radical" alt="Emmytronix Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmy-way&theme=radical&row=1&column=6" alt="Emmytronix Trophies" />
-</div>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60px" width="60px"> Let's Connect!
 
 <div align="center">
   <a href="mailto:emmanueludodirim4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmytronix&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
